@@ -125,3 +125,6 @@ fetch('https://digimon-ai.vercel.app/api/digimon')
 //   .then(...)  // 2nd Promise, using result from 1st
 //   .then(...)  // 3rd Promise, using result from 2nd
 //   .catch(...) // handles errors in any of the above
+
+
+
